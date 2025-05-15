@@ -48,8 +48,8 @@ print(f"Predicted value is (y): {y_predicted}")
 ```
 
 ## Output:
-![alt text](output.png)
-![alt text](<best fit.png>)
+![image](https://github.com/user-attachments/assets/db90a07b-ec61-4638-93b6-2003b705d8c1)
+![image](https://github.com/user-attachments/assets/18d316f0-8b75-4c15-9fcb-ddf0683d7bd9)
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
